@@ -48,4 +48,3 @@ This script is designed for educational purposes.
 It’s a simple example to understand how regression models work.
 
 For real projects, consider data validation, scaling, and persistence.
-
